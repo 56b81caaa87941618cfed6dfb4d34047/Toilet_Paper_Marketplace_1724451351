@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nadd an email santa claus button"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nChange the image to an image of a dinosaur"
     }
 ]
