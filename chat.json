@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the robotic dinosaur image to have a specific color theme to match your app's design?\", \"option1\": \"Yes, please use the app's primary color palette.\", \"option2\": \"No, any color scheme that looks good with a robotic design is fine.\"}, {\"question 2\": \"Should the robotic dinosaur image have a playful and cartoony design or a more realistic and detailed appearance?\", \"option1\": \"Playful and cartoony.\", \"option2\": \"Realistic and detailed.\"}], \"input_token_count\": 331, \"output_token_count\": 119, \"time_taken\": \"0:00:02.970905\"}",
+        "message_id": "guest23082024221802",
+        "timestamp": "23082024221806",
+        "component_file_name": "simple_cta_component_1724451354",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I'm changing the image to a robotic dinosaur.",
         "message_id": "guest23082024221802",
