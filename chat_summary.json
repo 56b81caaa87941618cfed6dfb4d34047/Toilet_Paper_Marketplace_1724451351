@@ -12,5 +12,11 @@
         "content": "add an email santa claus button",
         "timestamp": "23082024221659",
         "message_id": "guest23082024221659"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I'll add an email Santa Claus button.",
+        "timestamp": "23082024221700",
+        "message_id": "guest23082024221659"
     }
 ]
