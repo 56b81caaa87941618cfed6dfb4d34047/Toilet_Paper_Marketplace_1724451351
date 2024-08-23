@@ -4,5 +4,6 @@
     "project_description": "toilet paper marketplace",
     "creation_time": "2024-08-23 18:15:51.145430",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vibrant color palette of pinks and purples with a sci-fi theme, showcasing a surreal landscape with an alien planet in the background, blending dark shadows with luminous highlights."
 }
