@@ -17,9 +17,12 @@ Summary: This component contains a h2 heading title for the CTA, a line of text 
                     </p>
                 </div>
 
-                <div id="cta-button-container" class="flex">
+                <div id="cta-button-container" class="flex flex-col sm:flex-row gap-4">
                     <a id="cta-button" href="#" class="flex-1 text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800">
                         Start Browsing Rolls
+                    </a>
+                    <a id="email-santa-button" href="#" class="flex-1 text-white bg-red-600 hover:bg-red-700 focus:ring-4 focus:ring-red-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-red-500 dark:hover:bg-red-600 focus:outline-none dark:focus:ring-red-800">
+                        <i class='bx bx-envelope mr-2'></i>Email Santa Claus
                     </a>
                 </div>
             </div>
