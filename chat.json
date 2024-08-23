@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the dinosaur image to have a specific theme or color scheme to match the current site design?\", \"option1\": \"Yes, it should match the site's color scheme.\", \"option2\": \"No, any dinosaur image will do.\"}, {\"question 2\": \"Should the dinosaur image be more realistic or cartoonish in style?\", \"option1\": \"Realistic\", \"option2\": \"Cartoonish\"}], \"input_token_count\": 271, \"output_token_count\": 100, \"time_taken\": \"0:00:03.233060\"}",
+        "message_id": "guest23082024221728",
+        "timestamp": "23082024221733",
+        "component_file_name": "simple_hero_component_1724451354",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Of course, I'll change the image to a dinosaur.",
         "message_id": "guest23082024221728",
