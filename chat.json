@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add an email santa claus button",
+        "message_id": "guest23082024221659",
+        "timestamp": "23082024221659",
+        "component_file_name": "simple_cta_component_1724451354",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
