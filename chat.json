@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Change the image to an image of a dinosaur",
+        "message_id": "guest23082024221728",
+        "timestamp": "23082024221728",
+        "component_file_name": "simple_hero_component_1724451354",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Email Santa Claus' button to be positioned on the app?\", \"option1\": \"On the main page, prominently displayed.\", \"option2\": \"In the menu bar, as part of a list of options.\"}, {\"question 2\": \"What action should occur when a user clicks the 'Email Santa Claus' button?\", \"option1\": \"Open up an email template directly within the app.\", \"option2\": \"Redirect the user to their default email app with a pre-filled recipient (Santa's email).\"}], \"input_token_count\": 269, \"output_token_count\": 123, \"time_taken\": \"0:00:04.124539\"}",
         "message_id": "guest23082024221659",
