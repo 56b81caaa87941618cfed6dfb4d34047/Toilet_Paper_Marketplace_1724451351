@@ -1,6 +1,3 @@
-<!-- 
-Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligned.
--->
 <template>
     <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1">
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
@@ -16,6 +13,8 @@ Summary: This component contains a h2 heading title for the CTA, a line of text 
                         Discover the best deals on quality toilet paper from various brands and suppliers, all in one convenient place.
                     </p>
                 </div>
+
+                <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1724451351/main/images/ece322db7eb74995af1b6a22e802a8af.jpeg" alt="Toilet Paper Marketplace" class="mx-auto mb-6" />
 
                 <div id="cta-button-container" class="flex flex-col sm:flex-row gap-4">
                     <a id="cta-button" href="#" class="flex-1 text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800">
