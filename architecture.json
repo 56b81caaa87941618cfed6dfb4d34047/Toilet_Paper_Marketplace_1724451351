@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: add an email santa claus button\nAI: Got it, I'll add an email Santa Claus button.\nUser: Change the image to an image of a dinosaur\nAI: Of course, I'll change the image to a dinosaur.\n\nThis is the user's current request of changes to be made:\nchange the image to a robotic dinosaur"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn a conversation between a user and an AI assistant, the user requested to add a button labeled \"email Santa Claus.\" The AI responded by asking for a more detailed description of the project. The user then specified that they wanted the text associated with the project to be themed around garbage. The AI is trained on data up to October 2023.\nAI: Got it, I'm changing the image to a robotic dinosaur.\nUser: change the image to a robotic dinosaur\nAI: Of course, I'll change the image to a dinosaur.\nUser: Change the image to an image of a dinosaur\nAI: Got it, I'll add an email Santa Claus button.\n\nThis is the user's current request of changes to be made:\nChange the text to be garbage themed"
     }
 ]
