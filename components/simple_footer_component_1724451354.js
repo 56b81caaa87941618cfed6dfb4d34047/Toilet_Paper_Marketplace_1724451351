@@ -10,13 +10,13 @@
                 <div class="flex">
                     <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-white hover:text-pink-200 transition-colors duration-300">
                         <img id="footer-logo" src="./images/logo.svg" class="h-8 mr-3 sm:h-10" alt="Landwind Logo" />
-                        RollMart: Your TP Marketplace
+                        TrashTopia: Your Garbage Emporium
                     </a>
                 </div>
             </div>
             <div class="flex">
                 <div id="footer-text" class="flex-1 block text-sm text-center text-white hover:text-pink-200 transition-colors duration-300">
-                    © 2023 RollMart. Softness delivered to your doorstep. All rights reserved.
+                    © 2023 TrashTopia. Waste management redefined. All rights reserved.
                 </div>
             </div>
         </div>
