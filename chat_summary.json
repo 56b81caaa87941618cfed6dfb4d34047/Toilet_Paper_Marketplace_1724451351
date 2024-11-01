@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Automatically update related product images to match the thematic change (robotic dinosaurs)\", \"checked\": true}, {\"feature\": \"Add an interactive 3D model viewer for each product with the robotic dinosaur theme\", \"checked\": false}, {\"feature\": \"Include a theme-based product filter (Prehistoric, Modern, Futuristic)\", \"checked\": true}, {\"feature\": \"Implement dynamic background changes based on the product theme selected by the user\", \"checked\": false}, {\"feature\": \"Offer custom wrapping options with robotic dinosaur designs\", \"checked\": true}, {\"feature\": \"Enable augmented reality (AR) view to visualize products in the user's space with the robotic dinosaur theme\", \"checked\": false}], \"input_token_count\": 285, \"output_token_count\": 159, \"time_taken\": \"0:00:04.130724\"}",
+        "message_id": "guest23082024221802",
+        "timestamp": "23082024221807",
+        "component_file_name": "simple_cta_component_1724451354",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the robotic dinosaur image to have a specific color theme to match your app's design?\", \"option1\": \"Yes, please use the app's primary color palette.\", \"option2\": \"No, any color scheme that looks good with a robotic design is fine.\"}, {\"question 2\": \"Should the robotic dinosaur image have a playful and cartoony design or a more realistic and detailed appearance?\", \"option1\": \"Playful and cartoony.\", \"option2\": \"Realistic and detailed.\"}], \"input_token_count\": 331, \"output_token_count\": 119, \"time_taken\": \"0:00:02.970905\"}",
         "message_id": "guest23082024221802",
@@ -81,18 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "user",
-        "content": "add an email santa claus button",
-        "message_id": "guest23082024221659",
-        "timestamp": "23082024221659",
-        "component_file_name": "simple_cta_component_1724451354",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "23082024221806",
-        "message_id": "guest23082024221802"
+        "content": "In a conversation between a user and an AI assistant, the user requested to add a button labeled \"email Santa Claus.\" The AI responded by asking for a more detailed description of the project. The user then specified that they wanted the text associated with the project to be themed around garbage. The AI is trained on data up to October 2023.",
+        "timestamp": "01112024233058",
+        "message_id": "guest01112024233058"
     }
 ]
