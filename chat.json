@@ -114,5 +114,14 @@
         "component_file_name": "simple_footer_component_1724451354",
         "div_id": "",
         "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "I'm on it, changing the text to be garbage themed.",
+        "message_id": "guest01112024233058",
+        "timestamp": "01112024233058",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     }
 ]
